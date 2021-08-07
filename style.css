@@ -1,0 +1,27 @@
+body{
+    height: 85vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #541388;
+    color: rgb(52, 165, 52);
+}
+
+h1{
+    font-family: 'Patua One', cursive;
+    border-radius: 4px;
+    border-color: blanchedalmond;
+    color: yellow;
+    margin-top: 55px;
+    margin-bottom: -10% auto;
+    padding-left: 10px;
+    padding-bottom: -30px;
+    font-size: 35px;
+
+}
+
+.foto{
+    margin-top: -20px;
+}
